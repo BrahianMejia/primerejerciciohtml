@@ -1,0 +1,19 @@
+body
+{
+	background-color: chartreuse; 
+}
+
+h1
+{
+	color: blue;
+}
+
+img#imagen1
+{
+	width: 200px;
+}
+
+img#imagen2
+{
+	width: 300px;
+}
